@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{2724860B-89FC-4F8F-A968-98ED5C5C050B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Figuras\Triangulo.cs">
+    <Files>
+      <File FileName="Figuras\Program.cs" Line="5" Column="20" />
+      <File FileName="Figuras\Rectangulo.cs" Line="27" Column="26" />
+      <File FileName="Figuras\Circulo.cs" Line="23" Column="32" />
+      <File FileName="Figuras\Figura.cs" Line="44" Column="32" />
+      <File FileName="Figuras\Punto.cs" Line="26" Column="46" />
+      <File FileName="Figuras\Triangulo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Figuras PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

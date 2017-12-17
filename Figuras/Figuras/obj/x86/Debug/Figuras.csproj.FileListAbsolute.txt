@@ -1,0 +1,5 @@
+/home/aacuquejo/Projects/Figuras/Figuras/bin/Debug/Figuras.exe
+/home/aacuquejo/Projects/Figuras/Figuras/bin/Debug/Figuras.pdb
+/home/aacuquejo/Projects/Figuras/Figuras/obj/x86/Debug/Figuras.csproj.CoreCompileInputs.cache
+/home/aacuquejo/Projects/Figuras/Figuras/obj/x86/Debug/Figuras.exe
+/home/aacuquejo/Projects/Figuras/Figuras/obj/x86/Debug/Figuras.pdb
