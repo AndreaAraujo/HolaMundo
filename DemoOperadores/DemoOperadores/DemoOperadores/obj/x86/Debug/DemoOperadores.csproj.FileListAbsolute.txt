@@ -1,0 +1,5 @@
+/home/aacuquejo/Projects/DemoOperadores/DemoOperadores/bin/Debug/DemoOperadores.exe
+/home/aacuquejo/Projects/DemoOperadores/DemoOperadores/bin/Debug/DemoOperadores.pdb
+/home/aacuquejo/Projects/DemoOperadores/DemoOperadores/obj/x86/Debug/DemoOperadores.csproj.CoreCompileInputs.cache
+/home/aacuquejo/Projects/DemoOperadores/DemoOperadores/obj/x86/Debug/DemoOperadores.exe
+/home/aacuquejo/Projects/DemoOperadores/DemoOperadores/obj/x86/Debug/DemoOperadores.pdb

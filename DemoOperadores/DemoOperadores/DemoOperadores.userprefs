@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{94E6BC64-DE31-44D4-9F72-D759AF3687A4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoOperadores\Complejo.cs">
+    <Files>
+      <File FileName="DemoOperadores\Complejo.cs" Line="7" Column="32" />
+      <File FileName="DemoOperadores\MainCLass.cs" Line="12" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoOperadores PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
