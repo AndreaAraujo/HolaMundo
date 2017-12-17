@@ -1,0 +1,5 @@
+/home/aacuquejo/Projects/calculadora/calculadora/bin/Debug/calculadora.exe
+/home/aacuquejo/Projects/calculadora/calculadora/bin/Debug/calculadora.pdb
+/home/aacuquejo/Projects/calculadora/calculadora/obj/x86/Debug/calculadora.csproj.CoreCompileInputs.cache
+/home/aacuquejo/Projects/calculadora/calculadora/obj/x86/Debug/calculadora.exe
+/home/aacuquejo/Projects/calculadora/calculadora/obj/x86/Debug/calculadora.pdb

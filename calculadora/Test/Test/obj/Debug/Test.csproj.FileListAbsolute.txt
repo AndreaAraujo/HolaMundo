@@ -1,0 +1,10 @@
+/home/aacuquejo/Projects/calculadora/Test/Test/obj/Debug/Test.csprojResolveAssemblyReference.cache
+/home/aacuquejo/Projects/calculadora/Test/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/home/aacuquejo/Projects/calculadora/Test/Test/bin/Debug/Test.dll
+/home/aacuquejo/Projects/calculadora/Test/Test/bin/Debug/Test.pdb
+/home/aacuquejo/Projects/calculadora/Test/Test/bin/Debug/calculadora.exe
+/home/aacuquejo/Projects/calculadora/Test/Test/bin/Debug/nunit.framework.dll
+/home/aacuquejo/Projects/calculadora/Test/Test/bin/Debug/calculadora.pdb
+/home/aacuquejo/Projects/calculadora/Test/Test/bin/Debug/nunit.framework.xml
+/home/aacuquejo/Projects/calculadora/Test/Test/obj/Debug/Test.dll
+/home/aacuquejo/Projects/calculadora/Test/Test/obj/Debug/Test.pdb

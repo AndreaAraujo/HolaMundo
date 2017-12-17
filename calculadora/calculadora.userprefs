@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2A6BAF12-BF15-422B-ACC3-F7E252E855EC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.calculadora PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test\Test\MyClass.cs">
+    <Files>
+      <File FileName="calculadora\Program.cs" Line="17" Column="1" />
+      <File FileName="calculadora\Calculadora.cs" Line="31" Column="3" />
+      <File FileName="Test\Test\MyClass.cs" Line="34" Column="29" />
+      <File FileName="Test\Test\packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
